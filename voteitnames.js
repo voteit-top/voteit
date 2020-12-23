@@ -1,1 +1,1 @@
-let preloadRanks=[];
+let preloadRanks=[{},{}];
