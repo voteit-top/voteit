@@ -11,7 +11,7 @@ var presetranks= [null, {
 	"name": "Japan",
 	"rank": 2,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -35,7 +35,7 @@ var presetranks= [null, {
 	"name": "Albert Einstein",
 	"rank": 5,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -43,7 +43,7 @@ var presetranks= [null, {
 	"name": "China",
 	"rank": 6,
 	"voting": false,
-	"votes": 13448,
+	"votes": 13549,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -67,7 +67,7 @@ var presetranks= [null, {
 	"name": "Singapore",
 	"rank": 9,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -75,7 +75,7 @@ var presetranks= [null, {
 	"name": "Korea",
 	"rank": 10,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -91,7 +91,7 @@ var presetranks= [null, {
 	"name": "Elon Musk",
 	"rank": 12,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -107,7 +107,7 @@ var presetranks= [null, {
 	"name": "Canada",
 	"rank": 14,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -115,7 +115,7 @@ var presetranks= [null, {
 	"name": "Germany",
 	"rank": 15,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -123,7 +123,7 @@ var presetranks= [null, {
 	"name": "Taylor Swift",
 	"rank": 16,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -131,7 +131,7 @@ var presetranks= [null, {
 	"name": "Justin Bieber",
 	"rank": 17,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -139,7 +139,7 @@ var presetranks= [null, {
 	"name": "Isaac Newton",
 	"rank": 18,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -163,7 +163,7 @@ var presetranks= [null, {
 	"name": "Muhammad",
 	"rank": 21,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -171,7 +171,7 @@ var presetranks= [null, {
 	"name": "Russia",
 	"rank": 22,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -179,7 +179,7 @@ var presetranks= [null, {
 	"name": "Buddha Shakyamuni",
 	"rank": 23,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -187,7 +187,7 @@ var presetranks= [null, {
 	"name": "India",
 	"rank": 24,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -195,7 +195,7 @@ var presetranks= [null, {
 	"name": "France",
 	"rank": 25,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -203,7 +203,7 @@ var presetranks= [null, {
 	"name": "United Kingdom",
 	"rank": 26,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -211,7 +211,7 @@ var presetranks= [null, {
 	"name": "Brasil",
 	"rank": 27,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -219,7 +219,7 @@ var presetranks= [null, {
 	"name": "Bill Gates",
 	"rank": 28,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 2,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -235,7 +235,7 @@ var presetranks= [null, {
 	"name": "Tokyo",
 	"rank": 30,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 3,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -243,7 +243,7 @@ var presetranks= [null, {
 	"name": "Bangkok",
 	"rank": 31,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 3,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -251,7 +251,7 @@ var presetranks= [null, {
 	"name": "Egyptian pyramids",
 	"rank": 32,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 4,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -275,7 +275,7 @@ var presetranks= [null, {
 	"name": "Samsung",
 	"rank": 35,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 5,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -283,7 +283,7 @@ var presetranks= [null, {
 	"name": "Colosseum",
 	"rank": 36,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 4,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -291,7 +291,7 @@ var presetranks= [null, {
 	"name": "London",
 	"rank": 37,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 3,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -299,7 +299,7 @@ var presetranks= [null, {
 	"name": "Paris",
 	"rank": 38,
 	"voting": false,
-	"votes": 0,
+	"votes": 1,
 	"cateId": 3,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -336,7 +336,7 @@ var presetranks= [null, {
 	"creator": "TNv3b2MwnMpAhw9FRmoKEELvtRXqjSuUkE"
 }, {
 	"id": 43,
-	"name": "McDonald\'s",
+	"name": "McDonald's",
 	"rank": 43,
 	"voting": false,
 	"votes": 0.01,
@@ -523,7 +523,7 @@ var presetranks= [null, {
 	"name": "Maldive",
 	"rank": 66,
 	"voting": false,
-	"votes": 0.01,
+	"votes": 1.01,
 	"cateId": 1,
 	"creator": "TNv3b2MwnMpAhw9FRmoKEELvtRXqjSuUkE"
 }, {
