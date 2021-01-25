@@ -3,7 +3,7 @@ var presetranks= [null, {
 	"name": "USA",
 	"rank": 1,
 	"voting": false,
-	"votes": 10001,
+	"votes": 10011,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -43,7 +43,7 @@ var presetranks= [null, {
 	"name": "China",
 	"rank": 6,
 	"voting": false,
-	"votes": 13549,
+	"votes": 13839,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -51,7 +51,7 @@ var presetranks= [null, {
 	"name": "Apple",
 	"rank": 7,
 	"voting": false,
-	"votes": 1000,
+	"votes": 11000,
 	"cateId": 5,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -67,7 +67,7 @@ var presetranks= [null, {
 	"name": "Singapore",
 	"rank": 9,
 	"voting": false,
-	"votes": 1,
+	"votes": 20001,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -171,7 +171,7 @@ var presetranks= [null, {
 	"name": "Russia",
 	"rank": 22,
 	"voting": false,
-	"votes": 1,
+	"votes": 51,
 	"cateId": 1,
 	"creator": "TNk7BqY6Pe8zSYFFDp1sz45gAGMjLhF2iy"
 }, {
@@ -347,7 +347,7 @@ var presetranks= [null, {
 	"name": "Coca-Cola",
 	"rank": 44,
 	"voting": false,
-	"votes": 0.01,
+	"votes": 1500.01,
 	"cateId": 5,
 	"creator": "TNv3b2MwnMpAhw9FRmoKEELvtRXqjSuUkE"
 }, {
@@ -685,5 +685,13 @@ var presetranks= [null, {
 	"voting": false,
 	"votes": 0.01,
 	"cateId": 5,
+	"creator": "TNv3b2MwnMpAhw9FRmoKEELvtRXqjSuUkE"
+}, {
+	"id": 87,
+	"name": "The Louvre Museum",
+	"rank": 87,
+	"voting": false,
+	"votes": 0.01,
+	"cateId": 4,
 	"creator": "TNv3b2MwnMpAhw9FRmoKEELvtRXqjSuUkE"
 }];
