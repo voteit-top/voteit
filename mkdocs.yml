@@ -1,1 +1,6 @@
 site_name: VOTEIT Docs
+nav:
+    - HOME: 'index.md'
+    - BET: 'bet.md'
+    - PET: 'pet.md'
+    - FAQ: 'FAQ.md'
