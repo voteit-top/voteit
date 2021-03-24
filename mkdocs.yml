@@ -1,6 +1,7 @@
 site_name: VOTEIT Docs
 nav:
     - HOME: 'index.md'
+    - UEFA Champion League 2021: 'uefa2021.md'
     - BET: 'bet.md'
     - PET: 'pet.md'
     - FAQ: 'FAQ.md'
