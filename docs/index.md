@@ -1,3 +1,5 @@
-Welcome to visit VOTEIT.top
+# What is VOTEIT
 
-You can vote,bet,feed pet,farm,and exchange.....enjoy it.
+[Whitepaper](http://www.voteit.top/res/VOTEIT-whitepaper.pdf)
+
+[Homepage to Farm](http://www.voteit.top)
